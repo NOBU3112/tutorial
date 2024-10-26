@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\bai2\bai2\bin\Debug\bai2.exe.config
+C:\Users\dell\source\repos\bai2\bai2\bin\Debug\bai2.exe
+C:\Users\dell\source\repos\bai2\bai2\bin\Debug\bai2.pdb
+C:\Users\dell\source\repos\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\bai2\bai2\obj\Debug\bai2.exe
+C:\Users\dell\source\repos\bai2\bai2\obj\Debug\bai2.pdb

@@ -17,7 +17,7 @@ namespace HangSoVaCacPhepToanCoBan
             Console.WriteLine(" Do dong cua nuoc la " + DoDong);
             Console.WriteLine(" Do soi cua nuoc la {0}", DoSoi);
             Console.WriteLine($" PI = {PI}");
-            // DoSoi = 200 loi
+            //  = 200 loi
             Console.ReadKey();
 
             float x, y;
