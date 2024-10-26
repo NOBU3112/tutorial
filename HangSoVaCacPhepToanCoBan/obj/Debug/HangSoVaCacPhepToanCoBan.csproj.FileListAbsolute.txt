@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\bin\Debug\HangSoVaCacPhepToanCoBan.exe.config
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\bin\Debug\HangSoVaCacPhepToanCoBan.exe
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\bin\Debug\HangSoVaCacPhepToanCoBan.pdb
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\obj\Debug\HangSoVaCacPhepToanCoBan.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\obj\Debug\HangSoVaCacPhepToanCoBan.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\obj\Debug\HangSoVaCacPhepToanCoBan.exe
+C:\Users\dell\source\repos\HangSoVaCacPhepToanCoBan\HangSoVaCacPhepToanCoBan\obj\Debug\HangSoVaCacPhepToanCoBan.pdb
