@@ -13,7 +13,7 @@ namespace HangSoVaCacPhepToanCoBan
             const int DoSoi = 100;
             const int DoDong = 0;
             const double PI = 3.14;
-
+            
             Console.WriteLine(" Do dong cua nuoc la " + DoDong);
             Console.WriteLine(" Do soi cua nuoc la {0}", DoSoi);
             Console.WriteLine($" PI = {PI}");
@@ -35,7 +35,7 @@ namespace HangSoVaCacPhepToanCoBan
             Console.WriteLine(x + " * " + y + " = " + z3);
             Console.WriteLine("{0} / {1} = {2}", x, y, z4);
             Console.WriteLine("{0} % {1} = {2}", x, y, z5);
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
