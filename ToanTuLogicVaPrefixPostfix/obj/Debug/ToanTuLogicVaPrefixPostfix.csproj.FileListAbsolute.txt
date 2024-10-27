@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\bin\Debug\ToanTuLogicVaPrefixPostfix.exe.config
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\bin\Debug\ToanTuLogicVaPrefixPostfix.exe
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\bin\Debug\ToanTuLogicVaPrefixPostfix.pdb
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\obj\Debug\ToanTuLogicVaPrefixPostfix.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\obj\Debug\ToanTuLogicVaPrefixPostfix.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\obj\Debug\ToanTuLogicVaPrefixPostfix.exe
+C:\Users\dell\source\repos\ToanTuLogicVaPrefixPostfix\ToanTuLogicVaPrefixPostfix\obj\Debug\ToanTuLogicVaPrefixPostfix.pdb
