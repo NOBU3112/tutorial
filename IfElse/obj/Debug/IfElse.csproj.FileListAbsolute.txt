@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\dell\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\dell\source\repos\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\dell\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\dell\source\repos\IfElse\IfElse\obj\Debug\IfElse.pdb
