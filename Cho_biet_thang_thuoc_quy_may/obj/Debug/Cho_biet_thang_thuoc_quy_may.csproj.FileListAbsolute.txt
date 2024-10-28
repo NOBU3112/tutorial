@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\bin\Debug\Cho_biet_thang_thuoc_quy_may.exe.config
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\bin\Debug\Cho_biet_thang_thuoc_quy_may.exe
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\bin\Debug\Cho_biet_thang_thuoc_quy_may.pdb
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\obj\Debug\Cho_biet_thang_thuoc_quy_may.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\obj\Debug\Cho_biet_thang_thuoc_quy_may.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\obj\Debug\Cho_biet_thang_thuoc_quy_may.exe
+C:\Users\dell\source\repos\Cho_biet_thang_thuoc_quy_may\Cho_biet_thang_thuoc_quy_may\obj\Debug\Cho_biet_thang_thuoc_quy_may.pdb
