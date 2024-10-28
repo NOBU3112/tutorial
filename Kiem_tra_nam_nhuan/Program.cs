@@ -19,7 +19,7 @@ namespace Kiem_tra_nam_nhuan
                 Console.WriteLine("{0} là năm nhuận", nam);
             else
                 Console.WriteLine("{0} không phải là năm nhuận", nam);
-            Console.ReadKey(); 
+            Console.ReadKey(); //
         }
     }
 }
