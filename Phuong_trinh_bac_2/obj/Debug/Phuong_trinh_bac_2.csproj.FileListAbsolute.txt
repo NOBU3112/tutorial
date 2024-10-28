@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\bin\Debug\Phuong_trinh_bac_2.exe.config
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\bin\Debug\Phuong_trinh_bac_2.exe
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\bin\Debug\Phuong_trinh_bac_2.pdb
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\obj\Debug\Phuong_trinh_bac_2.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\obj\Debug\Phuong_trinh_bac_2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\obj\Debug\Phuong_trinh_bac_2.exe
+C:\Users\dell\source\repos\Phuong_trinh_bac_2\Phuong_trinh_bac_2\obj\Debug\Phuong_trinh_bac_2.pdb
