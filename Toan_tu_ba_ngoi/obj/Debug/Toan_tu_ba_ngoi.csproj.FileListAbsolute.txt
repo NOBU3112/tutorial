@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\bin\Debug\Toan_tu_ba_ngoi.exe.config
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\bin\Debug\Toan_tu_ba_ngoi.exe
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\bin\Debug\Toan_tu_ba_ngoi.pdb
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\obj\Debug\Toan_tu_ba_ngoi.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\obj\Debug\Toan_tu_ba_ngoi.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\obj\Debug\Toan_tu_ba_ngoi.exe
+C:\Users\dell\source\repos\Toan_tu_ba_ngoi\Toan_tu_ba_ngoi\obj\Debug\Toan_tu_ba_ngoi.pdb
