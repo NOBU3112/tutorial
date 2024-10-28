@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\bin\Debug\Tinh_BMI.exe.config
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\bin\Debug\Tinh_BMI.exe
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\bin\Debug\Tinh_BMI.pdb
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\obj\Debug\Tinh_BMI.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\obj\Debug\Tinh_BMI.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\obj\Debug\Tinh_BMI.exe
+C:\Users\dell\source\repos\Tinh_BMI\Tinh_BMI\obj\Debug\Tinh_BMI.pdb
