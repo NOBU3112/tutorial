@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\obj\Debug\Kiem_tra_so_ngay_trong_thang.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\obj\Debug\Kiem_tra_so_ngay_trong_thang.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\bin\Debug\Kiem_tra_so_ngay_trong_thang.exe.config
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\bin\Debug\Kiem_tra_so_ngay_trong_thang.exe
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\bin\Debug\Kiem_tra_so_ngay_trong_thang.pdb
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\obj\Debug\Kiem_tra_so_ngay_trong_thang.exe
+C:\Users\dell\source\repos\Kiem_tra_so_ngay_trong_thang\Kiem_tra_so_ngay_trong_thang\obj\Debug\Kiem_tra_so_ngay_trong_thang.pdb
