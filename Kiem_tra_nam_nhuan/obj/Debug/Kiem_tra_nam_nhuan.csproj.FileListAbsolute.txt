@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\bin\Debug\Kiem_tra_nam_nhuan.exe.config
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\bin\Debug\Kiem_tra_nam_nhuan.exe
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\bin\Debug\Kiem_tra_nam_nhuan.pdb
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\obj\Debug\Kiem_tra_nam_nhuan.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\obj\Debug\Kiem_tra_nam_nhuan.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\obj\Debug\Kiem_tra_nam_nhuan.exe
+C:\Users\dell\source\repos\Kiem_tra_nam_nhuan\Kiem_tra_nam_nhuan\obj\Debug\Kiem_tra_nam_nhuan.pdb
