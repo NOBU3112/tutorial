@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\bin\Debug\Ket_qua_xep_loai_hoc_sinh.exe.config
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\bin\Debug\Ket_qua_xep_loai_hoc_sinh.exe
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\bin\Debug\Ket_qua_xep_loai_hoc_sinh.pdb
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\obj\Debug\Ket_qua_xep_loai_hoc_sinh.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\obj\Debug\Ket_qua_xep_loai_hoc_sinh.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\obj\Debug\Ket_qua_xep_loai_hoc_sinh.exe
+C:\Users\dell\source\repos\Ket_qua_xep_loai_hoc_sinh\Ket_qua_xep_loai_hoc_sinh\obj\Debug\Ket_qua_xep_loai_hoc_sinh.pdb
