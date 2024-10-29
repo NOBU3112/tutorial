@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\bin\Debug\Ap_dung_switch_case.exe.config
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\bin\Debug\Ap_dung_switch_case.exe
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\bin\Debug\Ap_dung_switch_case.pdb
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\obj\Debug\Ap_dung_switch_case.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\obj\Debug\Ap_dung_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\obj\Debug\Ap_dung_switch_case.exe
+C:\Users\dell\source\repos\Ap_dung_switch_case\Ap_dung_switch_case\obj\Debug\Ap_dung_switch_case.pdb
