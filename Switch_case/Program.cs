@@ -31,7 +31,10 @@ namespace Switch_case
             Console.ReadKey();
 
             //Thay màu text hiển thị
+            Console.ForegroundColor = ConsoleColor.Red;//đổi màu ký tự
             Console.WriteLine("CHƯƠNG TRÌNH TÌM KIẾM");
+            Console.ForegroundColor= ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.White;//đổi màu phông chữ
             Console.WriteLine("1. Tìm kiếm theo tên");
             Console.WriteLine("2. Tìm kiếm theo tác giả");
             Console.WriteLine("3. Tìm kiếm theo nhà xuất bản");
