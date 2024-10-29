@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\bin\Debug\Tinh_tong_cac_so_chan.exe.config
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\bin\Debug\Tinh_tong_cac_so_chan.exe
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\bin\Debug\Tinh_tong_cac_so_chan.pdb
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\obj\Debug\Tinh_tong_cac_so_chan.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\obj\Debug\Tinh_tong_cac_so_chan.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\obj\Debug\Tinh_tong_cac_so_chan.exe
+C:\Users\dell\source\repos\Tinh_tong_cac_so_chan\Tinh_tong_cac_so_chan\obj\Debug\Tinh_tong_cac_so_chan.pdb
