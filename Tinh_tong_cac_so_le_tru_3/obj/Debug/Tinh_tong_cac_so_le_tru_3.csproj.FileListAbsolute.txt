@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\bin\Debug\Tinh_tong_cac_so_le_tru_3.exe.config
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\bin\Debug\Tinh_tong_cac_so_le_tru_3.exe
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\bin\Debug\Tinh_tong_cac_so_le_tru_3.pdb
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\obj\Debug\Tinh_tong_cac_so_le_tru_3.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\obj\Debug\Tinh_tong_cac_so_le_tru_3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\obj\Debug\Tinh_tong_cac_so_le_tru_3.exe
+C:\Users\dell\source\repos\Tinh_tong_cac_so_le_tru_3\Tinh_tong_cac_so_le_tru_3\obj\Debug\Tinh_tong_cac_so_le_tru_3.pdb
