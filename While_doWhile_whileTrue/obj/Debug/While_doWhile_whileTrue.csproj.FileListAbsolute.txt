@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\bin\Debug\While_doWhile_whileTrue.exe.config
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\bin\Debug\While_doWhile_whileTrue.exe
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\bin\Debug\While_doWhile_whileTrue.pdb
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\obj\Debug\While_doWhile_whileTrue.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\obj\Debug\While_doWhile_whileTrue.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\obj\Debug\While_doWhile_whileTrue.exe
+C:\Users\dell\source\repos\While_doWhile_whileTrue\While_doWhile_whileTrue\obj\Debug\While_doWhile_whileTrue.pdb
