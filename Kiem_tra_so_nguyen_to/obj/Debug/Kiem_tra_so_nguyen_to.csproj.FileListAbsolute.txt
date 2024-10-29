@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\bin\Debug\Kiem_tra_so_nguyen_to.exe.config
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\bin\Debug\Kiem_tra_so_nguyen_to.exe
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\bin\Debug\Kiem_tra_so_nguyen_to.pdb
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\obj\Debug\Kiem_tra_so_nguyen_to.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\obj\Debug\Kiem_tra_so_nguyen_to.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\obj\Debug\Kiem_tra_so_nguyen_to.exe
+C:\Users\dell\source\repos\Kiem_tra_so_nguyen_to\Kiem_tra_so_nguyen_to\obj\Debug\Kiem_tra_so_nguyen_to.pdb
