@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\dell\source\repos\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\dell\source\repos\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\dell\source\repos\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\dell\source\repos\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
