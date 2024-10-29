@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\bin\Debug\for_foreach_continue_break.exe.config
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\bin\Debug\for_foreach_continue_break.exe
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\bin\Debug\for_foreach_continue_break.pdb
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\obj\Debug\for_foreach_continue_break.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\obj\Debug\for_foreach_continue_break.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\obj\Debug\for_foreach_continue_break.exe
+C:\Users\dell\source\repos\for_foreach_continue_break\for_foreach_continue_break\obj\Debug\for_foreach_continue_break.pdb
