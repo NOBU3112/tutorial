@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\bin\Debug\Tinh_n!.exe.config
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\bin\Debug\Tinh_n!.exe
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\bin\Debug\Tinh_n!.pdb
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\obj\Debug\Tinh_n!.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\obj\Debug\Tinh_n!.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\obj\Debug\Tinh_n!.exe
+C:\Users\dell\source\repos\Tinh_n!\Tinh_n!\obj\Debug\Tinh_n!.pdb
