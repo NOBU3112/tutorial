@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\bin\Debug\Chuyen_tin_nhan_sang_mat_ma.exe.config
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\bin\Debug\Chuyen_tin_nhan_sang_mat_ma.exe
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\bin\Debug\Chuyen_tin_nhan_sang_mat_ma.pdb
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\obj\Debug\Chuyen_tin_nhan_sang_mat_ma.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\obj\Debug\Chuyen_tin_nhan_sang_mat_ma.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\obj\Debug\Chuyen_tin_nhan_sang_mat_ma.exe
+C:\Users\dell\source\repos\Chuyen_tin_nhan_sang_mat_ma\Chuyen_tin_nhan_sang_mat_ma\obj\Debug\Chuyen_tin_nhan_sang_mat_ma.pdb
