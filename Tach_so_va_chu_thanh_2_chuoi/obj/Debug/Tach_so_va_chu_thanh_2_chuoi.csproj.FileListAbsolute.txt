@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\bin\Debug\Tach_so_va_chu_thanh_2_chuoi.exe.config
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\bin\Debug\Tach_so_va_chu_thanh_2_chuoi.exe
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\bin\Debug\Tach_so_va_chu_thanh_2_chuoi.pdb
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\obj\Debug\Tach_so_va_chu_thanh_2_chuoi.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\obj\Debug\Tach_so_va_chu_thanh_2_chuoi.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\obj\Debug\Tach_so_va_chu_thanh_2_chuoi.exe
+C:\Users\dell\source\repos\Tach_so_va_chu_thanh_2_chuoi\Tach_so_va_chu_thanh_2_chuoi\obj\Debug\Tach_so_va_chu_thanh_2_chuoi.pdb
