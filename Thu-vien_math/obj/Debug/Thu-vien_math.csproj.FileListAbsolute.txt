@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\bin\Debug\Thu-vien_math.exe.config
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\bin\Debug\Thu-vien_math.exe
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\bin\Debug\Thu-vien_math.pdb
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\obj\Debug\Thu-vien_math.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\obj\Debug\Thu-vien_math.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\obj\Debug\Thu-vien_math.exe
+C:\Users\dell\source\repos\Thu-vien_math\Thu-vien_math\obj\Debug\Thu-vien_math.pdb
