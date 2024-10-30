@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\bin\Debug\Kiem_tra_mat_khau.exe.config
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\bin\Debug\Kiem_tra_mat_khau.exe
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\bin\Debug\Kiem_tra_mat_khau.pdb
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\obj\Debug\Kiem_tra_mat_khau.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\obj\Debug\Kiem_tra_mat_khau.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\obj\Debug\Kiem_tra_mat_khau.exe
+C:\Users\dell\source\repos\Kiem_tra_mat_khau\Kiem_tra_mat_khau\obj\Debug\Kiem_tra_mat_khau.pdb
