@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\bin\Debug\Random_DateTime.exe.config
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\bin\Debug\Random_DateTime.exe
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\bin\Debug\Random_DateTime.pdb
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\obj\Debug\Random_DateTime.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\obj\Debug\Random_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\obj\Debug\Random_DateTime.exe
+C:\Users\dell\source\repos\Random_DateTime\Random_DateTime\obj\Debug\Random_DateTime.pdb
