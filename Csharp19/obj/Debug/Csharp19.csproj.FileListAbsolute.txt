@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp19\Csharp19\bin\Debug\Csharp19.exe.config
+C:\Users\dell\source\repos\Csharp19\Csharp19\bin\Debug\Csharp19.exe
+C:\Users\dell\source\repos\Csharp19\Csharp19\bin\Debug\Csharp19.pdb
+C:\Users\dell\source\repos\Csharp19\Csharp19\obj\Debug\Csharp19.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp19\Csharp19\obj\Debug\Csharp19.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp19\Csharp19\obj\Debug\Csharp19.exe
+C:\Users\dell\source\repos\Csharp19\Csharp19\obj\Debug\Csharp19.pdb
