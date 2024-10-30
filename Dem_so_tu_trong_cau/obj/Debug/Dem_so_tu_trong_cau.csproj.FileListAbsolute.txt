@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\bin\Debug\Dem_so_tu_trong_cau.exe.config
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\bin\Debug\Dem_so_tu_trong_cau.exe
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\bin\Debug\Dem_so_tu_trong_cau.pdb
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\obj\Debug\Dem_so_tu_trong_cau.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\obj\Debug\Dem_so_tu_trong_cau.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\obj\Debug\Dem_so_tu_trong_cau.exe
+C:\Users\dell\source\repos\Dem_so_tu_trong_cau\Dem_so_tu_trong_cau\obj\Debug\Dem_so_tu_trong_cau.pdb
