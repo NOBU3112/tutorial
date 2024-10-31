@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\bin\Debug\Tao_list_random.exe.config
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\bin\Debug\Tao_list_random.exe
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\bin\Debug\Tao_list_random.pdb
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\obj\Debug\Tao_list_random.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\obj\Debug\Tao_list_random.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\obj\Debug\Tao_list_random.exe
+C:\Users\dell\source\repos\Tao_list_random\Tao_list_random\obj\Debug\Tao_list_random.pdb
