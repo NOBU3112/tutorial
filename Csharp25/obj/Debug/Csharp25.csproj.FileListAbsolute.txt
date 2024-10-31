@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp25\Csharp25\bin\Debug\Csharp25.exe.config
+C:\Users\dell\source\repos\Csharp25\Csharp25\bin\Debug\Csharp25.exe
+C:\Users\dell\source\repos\Csharp25\Csharp25\bin\Debug\Csharp25.pdb
+C:\Users\dell\source\repos\Csharp25\Csharp25\obj\Debug\Csharp25.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp25\Csharp25\obj\Debug\Csharp25.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp25\Csharp25\obj\Debug\Csharp25.exe
+C:\Users\dell\source\repos\Csharp25\Csharp25\obj\Debug\Csharp25.pdb
