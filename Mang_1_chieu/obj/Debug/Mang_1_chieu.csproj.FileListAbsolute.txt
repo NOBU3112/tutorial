@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\bin\Debug\Mang_1_chieu.exe.config
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\bin\Debug\Mang_1_chieu.exe
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\bin\Debug\Mang_1_chieu.pdb
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\obj\Debug\Mang_1_chieu.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\obj\Debug\Mang_1_chieu.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\obj\Debug\Mang_1_chieu.exe
+C:\Users\dell\source\repos\Mang_1_chieu\Mang_1_chieu\obj\Debug\Mang_1_chieu.pdb
