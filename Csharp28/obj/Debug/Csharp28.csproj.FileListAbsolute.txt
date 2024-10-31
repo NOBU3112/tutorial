@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp28\Csharp28\bin\Debug\Csharp28.exe.config
+C:\Users\dell\source\repos\Csharp28\Csharp28\bin\Debug\Csharp28.exe
+C:\Users\dell\source\repos\Csharp28\Csharp28\bin\Debug\Csharp28.pdb
+C:\Users\dell\source\repos\Csharp28\Csharp28\obj\Debug\Csharp28.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp28\Csharp28\obj\Debug\Csharp28.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp28\Csharp28\obj\Debug\Csharp28.exe
+C:\Users\dell\source\repos\Csharp28\Csharp28\obj\Debug\Csharp28.pdb
