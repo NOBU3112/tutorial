@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp26\Csharp26\bin\Debug\Csharp26.exe.config
+C:\Users\dell\source\repos\Csharp26\Csharp26\bin\Debug\Csharp26.exe
+C:\Users\dell\source\repos\Csharp26\Csharp26\bin\Debug\Csharp26.pdb
+C:\Users\dell\source\repos\Csharp26\Csharp26\obj\Debug\Csharp26.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp26\Csharp26\obj\Debug\Csharp26.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp26\Csharp26\obj\Debug\Csharp26.exe
+C:\Users\dell\source\repos\Csharp26\Csharp26\obj\Debug\Csharp26.pdb
