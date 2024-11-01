@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp29\Csharp29\bin\Debug\Csharp29.exe.config
+C:\Users\dell\source\repos\Csharp29\Csharp29\bin\Debug\Csharp29.exe
+C:\Users\dell\source\repos\Csharp29\Csharp29\bin\Debug\Csharp29.pdb
+C:\Users\dell\source\repos\Csharp29\Csharp29\obj\Debug\Csharp29.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp29\Csharp29\obj\Debug\Csharp29.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp29\Csharp29\obj\Debug\Csharp29.exe
+C:\Users\dell\source\repos\Csharp29\Csharp29\obj\Debug\Csharp29.pdb
