@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Csharp30\Csharp30\bin\Debug\Csharp30.exe.config
+C:\Users\dell\source\repos\Csharp30\Csharp30\bin\Debug\Csharp30.exe
+C:\Users\dell\source\repos\Csharp30\Csharp30\bin\Debug\Csharp30.pdb
+C:\Users\dell\source\repos\Csharp30\Csharp30\obj\Debug\Csharp30.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Csharp30\Csharp30\obj\Debug\Csharp30.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Csharp30\Csharp30\obj\Debug\Csharp30.exe
+C:\Users\dell\source\repos\Csharp30\Csharp30\obj\Debug\Csharp30.pdb
