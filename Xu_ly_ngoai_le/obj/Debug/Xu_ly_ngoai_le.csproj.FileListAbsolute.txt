@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\bin\Debug\Xu_ly_ngoai_le.exe.config
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\bin\Debug\Xu_ly_ngoai_le.exe
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\bin\Debug\Xu_ly_ngoai_le.pdb
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\obj\Debug\Xu_ly_ngoai_le.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\obj\Debug\Xu_ly_ngoai_le.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\obj\Debug\Xu_ly_ngoai_le.exe
+C:\Users\dell\source\repos\Xu_ly_ngoai_le\Xu_ly_ngoai_le\obj\Debug\Xu_ly_ngoai_le.pdb
