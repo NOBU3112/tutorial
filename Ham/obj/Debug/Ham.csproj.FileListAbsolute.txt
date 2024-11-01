@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ham\Ham\bin\Debug\Ham.exe.config
+C:\Users\dell\source\repos\Ham\Ham\bin\Debug\Ham.exe
+C:\Users\dell\source\repos\Ham\Ham\bin\Debug\Ham.pdb
+C:\Users\dell\source\repos\Ham\Ham\obj\Debug\Ham.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ham\Ham\obj\Debug\Ham.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ham\Ham\obj\Debug\Ham.exe
+C:\Users\dell\source\repos\Ham\Ham\obj\Debug\Ham.pdb
