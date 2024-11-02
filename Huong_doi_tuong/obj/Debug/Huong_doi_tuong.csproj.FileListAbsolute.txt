@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\bin\Debug\Huong_doi_tuong.exe.config
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\bin\Debug\Huong_doi_tuong.exe
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\bin\Debug\Huong_doi_tuong.pdb
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\obj\Debug\Huong_doi_tuong.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\obj\Debug\Huong_doi_tuong.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\obj\Debug\Huong_doi_tuong.exe
+C:\Users\dell\source\repos\Huong_doi_tuong\Huong_doi_tuong\obj\Debug\Huong_doi_tuong.pdb
