@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\bin\Debug\Ke_thua_da_hinh_overriding.exe.config
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\bin\Debug\Ke_thua_da_hinh_overriding.exe
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\bin\Debug\Ke_thua_da_hinh_overriding.pdb
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\obj\Debug\Ke_thua_da_hinh_overriding.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\obj\Debug\Ke_thua_da_hinh_overriding.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\obj\Debug\Ke_thua_da_hinh_overriding.exe
+C:\Users\dell\source\repos\Ke_thua_da_hinh_overriding\Ke_thua_da_hinh_overriding\obj\Debug\Ke_thua_da_hinh_overriding.pdb
